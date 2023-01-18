@@ -10,7 +10,7 @@ The objective of this challenge is to develop a machine learning model to assess
 
 **Variable definition:**
 
-*tweet_id:* Unique identifier of the tweet
+**tweet_id:** Unique identifier of the tweet
 
 **safe_tweet:** Text contained in the tweet. Some sensitive information has been removed like usernames and urls
 
@@ -23,6 +23,21 @@ Files available for download are:
 **Train.csv** - Labelled tweets on which to train your model
 
 **Test.csv** - Tweets that you must classify using your trained model
+
+## Project Models
+
+ Two models were finetuned and trained from huggging face in this project to Achieve my desired model:
+* bert-based-uncased
+* roberta-base
+
+# Model 1___training metrics and prediction
+
+You can find my first model and its performance in hugging face using the link below;
+
+https://huggingface.co/Gyimah3/Finetuned_bert
+
+**Training metrics**
+
 
 
 

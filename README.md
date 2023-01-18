@@ -54,6 +54,7 @@ https://huggingface.co/Gyimah3/Finetuned_roberta
 
 ## Model App
 I created a gradio app for the first model for predictions given a **covid tweet text**
+![1](https://github.com/Gyimah3/Fine-tuning-Hugging-face-text-classification-model/blob/main/gradio.png)
 
 The link to the app can be found below:
 

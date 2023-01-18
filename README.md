@@ -38,7 +38,7 @@ https://huggingface.co/Gyimah3/Finetuned_bert
 
 **Training metrics**
 
-![1]('https://github.com/Gyimah3/Fine-tuning-Hugging-face-text-classification-model/blob/main/training_metrics%20screenshots-time%20series/Screenshot%202023-01-17%20210612.png')
+![1](https://github.com/Gyimah3/Fine-tuning-Hugging-face-text-classification-model/blob/main/training_metrics%20screenshots-time%20series/Screenshot%202023-01-17%20210612.png)
 
 
 

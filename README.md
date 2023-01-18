@@ -36,10 +36,20 @@ You can find my first model and its performance in hugging face using the link b
 
 https://huggingface.co/Gyimah3/Finetuned_bert
 
-**Training metrics**
+# Model 2___training metrics and prediction
+
+You can find my second model and its performance in hugging face using the link below;
+
+https://huggingface.co/Gyimah3/Finetuned_roberta
+
+
+**Training metrics_time series**
 
 ![1](https://github.com/Gyimah3/Fine-tuning-Hugging-face-text-classification-model/blob/main/training_metrics%20screenshots-time%20series/Screenshot%202023-01-17%20210612.png)
 
+**Training metrics_scalars**
+
+![1](https://github.com/Gyimah3/Fine-tuning-Hugging-face-text-classification-model/blob/main/training_metrics%20screenshot-scalers/Screenshot%202023-01-17%20211512.png)
 
 
 
